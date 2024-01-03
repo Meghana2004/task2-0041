@@ -1,0 +1,12 @@
+body {
+    width: 96%;
+    height: 77vh;
+    background-image: linear-gradient(rgba(199, 190, 190, 0.737), rgba(0, 0, 0, 0.764)), url(https://wallpaperaccess.com/full/154789.jpg);
+    background-position: center;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 36px;
+    color: #000000;
+}

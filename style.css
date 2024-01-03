@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    height: 140px;
+    line-height: 140px;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #2f7e1b8a;
+}
